@@ -1,3 +1,7 @@
+# This fork to be used by my NFC - Tests 
+For the real __thing__, please go to [nfc-tools](https://github.com/nfc-tools/libndef)
+
+
 # Introduction
 
 This is a C++/Qt library to encode and decode messages based on **NDEF (NFC Data Exchange Format) Specification**.
