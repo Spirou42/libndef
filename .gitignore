@@ -1,0 +1,14 @@
+
+*.stash
+
+*.dylib
+
+*.o
+
+Makefile
+
+tools/Makefile.ndef-decode
+
+*.prl
+
+*.pc
